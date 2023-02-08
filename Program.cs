@@ -6,7 +6,7 @@ namespace Eyylizer
     {
         internal static void Main()
         {
-	    Eyylizer.Display();
+            Eyylizer.Display();
         }
     }
 }
